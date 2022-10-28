@@ -1,1 +1,1 @@
-# Epidemic Intelligent
+# Epidemic Intelligence
