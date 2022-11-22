@@ -1,6 +1,5 @@
-# Epidemic Intelligence
-
+# China Inbound Traveller Covid -19 Infection Database, CITCID
 
 | Version&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Release&nbsp;date&nbsp; | Release notes |
 | :--- | :--- | :---  |
-| [2022-05-30](../../../blob/main/data/epidemic-intelligence-2022-05-30.zip) | Oct 28, 2022 | Epidemic Intelligent dataset updated with XXX events until 2022-05-30. 32 XXX events registered since last update. |
+| [2021-12-31](../../../blob/main/data/citcid-2021-12-31-data.zip) | Nov 22, 2022 | CITCID dataset updated with COVID-19 events until 2021-12-31. CITCID registered since last update. |
